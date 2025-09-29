@@ -8,7 +8,7 @@
 I am a Computer Science student at UNMSM, currently halfway through my degree and gaining the knowledge needed to apply it in the future. The programming languages I am proficient in include C++, Python, among others. I am passionate about learning and creating innovative projects.
 * **I am interested in cybersecurity and artificial intelligence**
 - ✔ Ask me anything, I’ll be happy to help, as long as it’s within my reach! 😉<br>
-- Outside the tech world, ⚽ I love playing soccer, 🎮 enjoying video games, 🎵 listening to music, and 🌴 exploring nature outdoors.
+- Outside the tech world, ⚽ I love playing soccer, 🎮 playing videogames, 🎵 listening to music, and 🌴 exploring nature outdoors.
 - 📫 Reach out to me at: <a href="rojasnathan909@gmail.com">rojasnathan909@gmail.com</a>
 
 __Check out my GitHub repository:__

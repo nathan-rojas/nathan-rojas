@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Nathan Rojas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<picture><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHkyOTJ0dzQ4eWN1OHYxdzVydjZoMHd4c2t5cGRuZmhua3FpYmdkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" width="300px" alt="Gif animado" align="right"></picture>
 <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Computer+Science+Student"/>
+<picture><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHkyOTJ0dzQ4eWN1OHYxdzVydjZoMHd4c2t5cGRuZmhua3FpYmdkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ohONS2y8GTDoI/giphy.gif" width="300px" alt="Gif animado" align="right"></picture>
+
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 
